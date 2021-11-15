@@ -4,6 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/beer_api_digital_innovation_one-master/beerstock.iml" filepath="$PROJECT_DIR$/beer_api_digital_innovation_one-master/beerstock.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/codigo_aula.iml" filepath="$PROJECT_DIR$/.idea/codigo_aula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testeConexao/testeConexao/testeConexao.iml" filepath="$PROJECT_DIR$/../testeConexao/testeConexao/testeConexao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testeConexao/testeConexao2/testeConexao2.iml" filepath="$PROJECT_DIR$/../testeConexao/testeConexao2/testeConexao2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testeConexao/testeConexao3/testeConexao3.iml" filepath="$PROJECT_DIR$/../testeConexao/testeConexao3/testeConexao3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testeConexao/testeConexao4/testeConexao4.iml" filepath="$PROJECT_DIR$/../testeConexao/testeConexao4/testeConexao4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testeConexao/testeConexao5/testeConexao5.iml" filepath="$PROJECT_DIR$/../testeConexao/testeConexao5/testeConexao5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testeConexao/testeConexao6/testeConexao6.iml" filepath="$PROJECT_DIR$/../testeConexao/testeConexao6/testeConexao6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testeConexao/testeConexao7/testeConexao7.iml" filepath="$PROJECT_DIR$/../testeConexao/testeConexao7/testeConexao7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testeConexao/testeConexao8/testeConexao8.iml" filepath="$PROJECT_DIR$/../testeConexao/testeConexao8/testeConexao8.iml" />
     </modules>
   </component>
 </project>

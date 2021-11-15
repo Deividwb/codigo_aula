@@ -4,6 +4,14 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/beer_api_digital_innovation_one-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../testeConexao/testeConexao/pom.xml" />
+        <option value="$PROJECT_DIR$/../testeConexao/testeConexao2/pom.xml" />
+        <option value="$PROJECT_DIR$/../testeConexao/testeConexao3/pom.xml" />
+        <option value="$PROJECT_DIR$/../testeConexao/testeConexao4/pom.xml" />
+        <option value="$PROJECT_DIR$/../testeConexao/testeConexao5/pom.xml" />
+        <option value="$PROJECT_DIR$/../testeConexao/testeConexao6/pom.xml" />
+        <option value="$PROJECT_DIR$/../testeConexao/testeConexao7/pom.xml" />
+        <option value="$PROJECT_DIR$/../testeConexao/testeConexao8/pom.xml" />
       </list>
     </option>
   </component>

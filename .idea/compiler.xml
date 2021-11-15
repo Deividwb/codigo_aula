@@ -3,6 +3,19 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="testeConexao7" />
+        <module name="testeConexao6" />
+        <module name="testeConexao5" />
+        <module name="testeConexao4" />
+        <module name="testeConexao3" />
+        <module name="testeConexao2" />
+        <module name="testeConexao" />
+        <module name="testeConexao8" />
+      </profile>
       <profile name="Annotation profile for beerstock" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -28,11 +41,27 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="beerstock" target="14" />
+      <module name="testeConexao" target="1.5" />
+      <module name="testeConexao2" target="11" />
+      <module name="testeConexao3" target="11" />
+      <module name="testeConexao4" target="11" />
+      <module name="testeConexao5" target="11" />
+      <module name="testeConexao6" target="11" />
+      <module name="testeConexao7" target="17" />
+      <module name="testeConexao8" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="beerstock" options="-parameters" />
+      <module name="testeConexao" options="-parameters" />
+      <module name="testeConexao2" options="-parameters" />
+      <module name="testeConexao3" options="-parameters" />
+      <module name="testeConexao4" options="-parameters" />
+      <module name="testeConexao5" options="-parameters" />
+      <module name="testeConexao6" options="-parameters" />
+      <module name="testeConexao7" options="-parameters" />
+      <module name="testeConexao8" options="-parameters" />
     </option>
   </component>
 </project>

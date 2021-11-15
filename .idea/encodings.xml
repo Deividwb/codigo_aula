@@ -2,5 +2,13 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/beer_api_digital_innovation_one-master/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../testeConexao/testeConexao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../testeConexao/testeConexao2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../testeConexao/testeConexao3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../testeConexao/testeConexao4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../testeConexao/testeConexao5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../testeConexao/testeConexao6/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../testeConexao/testeConexao7/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../testeConexao/testeConexao8/src/main/java" charset="UTF-8" />
   </component>
 </project>
